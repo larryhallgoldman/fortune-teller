@@ -1,0 +1,5 @@
+/Users/lgoldman/workspace/fortune-teller/fortune-teller-ui/src/main/java/io/spring/cloud/samples/fortuneteller/ui/Application.java
+/Users/lgoldman/workspace/fortune-teller/fortune-teller-ui/src/main/java/io/spring/cloud/samples/fortuneteller/ui/services/fortunes/Fortune.java
+/Users/lgoldman/workspace/fortune-teller/fortune-teller-ui/src/main/java/io/spring/cloud/samples/fortuneteller/ui/services/fortunes/FortuneService.java
+/Users/lgoldman/workspace/fortune-teller/fortune-teller-ui/src/main/java/io/spring/cloud/samples/fortuneteller/ui/controllers/UiController.java
+/Users/lgoldman/workspace/fortune-teller/fortune-teller-ui/src/main/java/io/spring/cloud/samples/fortuneteller/ui/services/fortunes/FortuneProperties.java
